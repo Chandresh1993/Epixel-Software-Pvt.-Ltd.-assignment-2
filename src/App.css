@@ -13,6 +13,45 @@
   }
 }
 
+h6{
+  color: black;
+  font-weight: bolder;
+  text-decoration: none;
+  
+}
+.card{
+ border-radius: 5px;
+ color: black;
+ font-weight: bolder;
+ text-decoration: none;
+ background-color: #61dafb;
+ 
+}
+.nav1{
+  background-color: black;
+  height: 40px;
+  
+
+}
+
+.black{
+  background-color: #61dafb;
+}
+.div{
+  background-color: black;
+  color: white;
+ 
+  
+}
+
+.div1{
+  color: white;
+  text-decoration: none;
+  font-size: large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
